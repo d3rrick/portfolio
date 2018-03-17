@@ -60,7 +60,36 @@ h1{
 	font-size: 40px;
 }
 h4{
-	font-size: 20px;
+	font-size: 20px;osts{
+	text-align: center;
+}
+.osts h1{
+	color:orange;
+	font-size: 50px;
+	font-family: serif;
+	padding-top: 2%;
+
+}
+span{
+	font-size: 15px;
+}
+#about{
+	text-align: center;
+	padding-top: 90px;
+}
+.projects{
+	text-align: center;
+	margin: 1px;
+	/*margin-top: 30px;*/
+
+	
+}
+ul.projects{
+	list-style-type: none;
+
+}
+
+l
 }
 h3{
 	font-family: sans-serif;
