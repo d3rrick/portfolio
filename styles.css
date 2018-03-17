@@ -43,3 +43,30 @@ li.ul1 a {
     margin-right: 30px;
     text-decoration: none;
 }
+li.ul1 a:hover {
+    background-color: #ececec00;
+     color: white;
+     font-size: 30px;
+}
+.blogpic{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+
+}
+
+h1{
+	color:#0aa3e2;
+	font-size: 40px;
+}
+h4{
+	font-size: 20px;
+}
+h3{
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	font-style: italic;
+}
+small{
+	color:red;
+}
