@@ -27,3 +27,19 @@ ul.ul1 img{
 	padding-right: 10%;
 
 }
+li.ul1 {
+    float: right;
+}
+li.ul1 {
+    float: right;
+
+}
+li.ul1 a {
+    display:block;
+    color: #484725fc;
+    font-size: 25px;
+    text-align: center;
+    padding: 50px 10px 50px 10px;
+    margin-right: 30px;
+    text-decoration: none;
+}
