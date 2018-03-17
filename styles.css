@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+
+}
+
+#landingpt{
+	background-image: url("b1.jpg");
+	 background-attachment: fixed;
+	margin: 0;
+
+	height: 500px;
+}
+ul.ul1 {
+    list-style-type: none;
+    margin-top:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c4e0e800;
+
+}
+ul.ul1 img{
+	float: left;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
