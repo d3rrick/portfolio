@@ -27,6 +27,7 @@ ul.ul1 img{
 	padding-right: 10%;
 
 }
+
 li.ul1 {
     float: right;
 }
@@ -43,6 +44,7 @@ li.ul1 a {
     margin-right: 30px;
     text-decoration: none;
 }
+
 li.ul1 a:hover {
     background-color: #ececec00;
      color: white;
@@ -60,7 +62,18 @@ h1{
 	font-size: 40px;
 }
 h4{
-	font-size: 20px;osts{
+	font-size: 20px;
+}
+h3{
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	font-style: italic;
+}
+small{
+	color:red;
+}
+
+.osts{
 	text-align: center;
 }
 .osts h1{
@@ -88,6 +101,7 @@ ul.projects{
 	list-style-type: none;
 
 }
+
 li.projects a{
 	display:block;
     color: #1c9822fc;
@@ -126,17 +140,6 @@ li.hobbies{
 }
 
 .footer{
-lhobbies
-}
-h3{
-	font-family: sans-serif;
-	letter-spacing: 1px;
-	font-style: italic;
-}
-small{
-	color:red;
-}
-.footer{
 	background-color: #d4edef;
 	text-align: center;
 	margin: 1px 0px 30px 0px;
@@ -152,7 +155,19 @@ li.footer a {
     color: #1c9822fc;
     font-size: 25px;
     text-align: center;
-    padding: 50;
+    padding: 50px 10px 50px 10px;
+    margin-right: 30px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+li.footer a:hover {
+    /*background-color: #00a3b5;*/
+     color: white;
+     font-size: 30px;
+}
+.divide{
+	text-align: center;
 	margin: 80px;
 	font-size: 50px;
 
