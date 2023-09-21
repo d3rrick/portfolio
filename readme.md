@@ -24,9 +24,9 @@ Html file first created to give the site a structure then styles added using css
 * Then push to the remote repository on github.**git push origin master**.
 
 ## Accessing the portfolio.
-The site can be viewed from here [dery's blog](https://muriithiderro.github.io/portfolio/) or [portfolio github repository](https://github.com/muriithiderro/portfolio).
+The site can be viewed from here [dery's blog](https://d3rrick.github.io/portfolio/) or [portfolio github repository](https://github.com/d3rrick/portfolio).
 
 ### License
 *The site and materials can be accessed by the public freely*
 
-Copyright (c) 2018 **[Derrick](https://github.com/muriithiderro)**
+Copyright (c) 2018 **[Derrick](https://github.com/d3rrick/portfolio)**
